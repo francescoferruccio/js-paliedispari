@@ -7,7 +7,7 @@
 var giocatore1;
 var giocatore2;
 var start = document.getElementById('start');
-result = document.getElementById('result');
+var result = document.getElementById('result');
 
 start.addEventListener("click",
   function() {
